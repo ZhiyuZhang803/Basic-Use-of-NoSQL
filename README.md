@@ -18,3 +18,5 @@ Learning Objectives:
 ### Details of the folders:
 
 There are 7 folders in the repo. Each of them represents an assignment. Basically, each folder contains two files: the description of questions (normally with name "Honework - n") and the corresponding answers.
+
+Homework 1-4 contain the questions of MongoDB and homework 5-7 contain the questions of Neo4j.
